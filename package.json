@@ -1,0 +1,15 @@
+{
+  "name": "firebase-migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "import-to-firestore.js",
+  "scripts": {
+    "test": "import"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "firebase-admin": "^9.3.0"
+  }
+}
